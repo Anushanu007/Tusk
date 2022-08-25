@@ -5,6 +5,7 @@ pasta
 chicken fry
 pizza
 beans
+pizza
 
 
 thank you :)
